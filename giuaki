@@ -2,3 +2,9 @@ npx create-react-app giuaky
 cd giuaky
 npm install axios react-router-dom@6
 npm start
+
+git add .
+git commit -m "Khoi tao project"
+git branch -M main
+git remote add origin https: /github.com/<tai-khoan>/B25DCCC010_LTW2026_GK.git
+git push -u origin main
