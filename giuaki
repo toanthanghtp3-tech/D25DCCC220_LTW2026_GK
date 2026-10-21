@@ -1,0 +1,4 @@
+npx create-react-app giuaky
+cd giuaky
+npm install axios react-router-dom@6
+npm start
